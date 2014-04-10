@@ -1,0 +1,11 @@
+{
+  "generator-famous": {
+    "projectName": "famtest",
+    "projectDesc": "Seed project to get started with Famo.us",
+    "authorLogin": "",
+    "author": {
+      "name": "dcsan",
+      "email": "dc@pikkle.com"
+    }
+  }
+}
